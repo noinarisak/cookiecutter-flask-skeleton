@@ -22,3 +22,11 @@ Once generated, review the setup guides, within the newly created project direct
 
 1. [setup-with-docker.md](%7B%7Bcookiecutter.app_slug%7D%7D/setup-with-docker.md)
 1. [setup-without-docker.md](%7B%7Bcookiecutter.app_slug%7D%7D/setup-without-docker.md)
+
+## Development Resources (__DELETE__)
+
+* https://cookiecutter.readthedocs.io/en/latest/tutorials.html
+
+## Other possible feature addition to template
+
+* https://medium.com/@trstringer/logging-flask-and-gunicorn-the-manageable-way-2e6f0b8beb2f
